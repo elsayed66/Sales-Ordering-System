@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1654234051 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\cash.cpp
+	"Cash.h"
+
+1654234073 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\cash.h
+	"Payment.h"
+
+1654334200 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\payment.h
+	<iostream>
+
+1654234048 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\check.cpp
+	"Check.h"
+
+1654234077 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\check.h
+	"Payment.h"
+	<iostream>
+	<string>
+
+1654234047 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\company.cpp
+	"Company.h"
+
+1654234083 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\company.h
+	<iostream>
+	<string>
+	"Customer.h"
+
+1654234096 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\customer.h
+	<iostream>
+	<string>
+	<fstream>
+
+1654234046 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\credit.cpp
+	"Credit.h"
+	<ctime>
+
+1654234089 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\credit.h
+	<iostream>
+	<string>
+	"Payment.h"
+
+1654234045 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\customer.cpp
+	"Customer.h"
+
+1654320519 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\customers.cpp
+	"Customers.h"
+	<fstream>
+
+1654319835 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\customers.h
+	<iostream>
+	<string>
+	<vector>
+	"Customer.h"
+	"Person.h"
+	"Company.h"
+	"Stock.h"
+	"Transaction.h"
+	"Product.h"
+
+1654234119 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\person.h
+	<iostream>
+	<string>
+	"Customer.h"
+
+1654256994 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\stock.h
+	<iostream>
+	<string>
+	<vector>
+	"Product.h"
+
+1654257179 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\product.h
+	<iostream>
+	<string>
+	<fstream>
+
+1654260198 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\transaction.h
+	<vector>
+	"Order.h"
+	"Order.h"
+	"Customer.h"
+	"Payment.h"
+	"Credit.h"
+	"Cash.h"
+	"Check.h"
+
+1654236358 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\order.h
+	<iostream>
+	<string>
+	<ctime>
+	"OrderItem.h"
+	"Stock.h"
+	"Customer.h"
+	"Payment.h"
+	"Credit.h"
+	"Cash.h"
+	"Check.h"
+
+1654258021 c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\orderitem.h
+	<iostream>
+	"Stock.h"
+
+1654236358 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\order.cpp
+	"Order.h"
+	<cstring>
+
+1654234041 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\orderitem.cpp
+	"OrderItem.h"
+
+1654332904 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\payment.cpp
+	"Payment.h"
+	<ctime>
+
+1654234038 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\person.cpp
+	"Person.h"
+
+1654234037 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\product.cpp
+	"Product.h"
+
+1654255889 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\stock.cpp
+	"Stock.h"
+
+1654234029 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\transaction.cpp
+	"Transaction.h"
+	<cstring>
+
+1654328694 source:c:\users\sayed\downloads\telegram desktop\second term\programming\assignments\3\code blocks rebuild\oop3cb\oop3\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"Customers.h"
+
